@@ -5,6 +5,9 @@ This project is based on the Botanicalls project by Rob Faludi, Kate Hartman, an
 This system goes one step further than the base botanicalls system by adding in automated watering capabilities. 
 
 Folders are as such:
-Project desgns, schematics and bill of materials: Designs
-Arduino code ArduinoProject
-External Arduino libraries: ArduinoLibraries
+
+Designs: Project breadboard designs, schematics and bill of materials
+ArduinoProject: Arduino code 
+ArduinoLibraries: External Arduino libraries
+
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. 
